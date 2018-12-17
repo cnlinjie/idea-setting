@@ -1,0 +1,42 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/intellij-java-google-style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/7.7.3/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.7.3" last-modified="1490172665000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="entitySuffix" value="" />
+    <option name="ENTITY_SUFFIX" value="" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://cs.fafu.edu.cn:10002/svn/washer/iot3" />
+        <option value="https://qtx2015.tpddns.cn/svn/qtx" />
+        <option value="svn://www.harme.cn" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://cs.fafu.edu.cn:10002/svn/washer/iot3" />
+        <option value="https://qtx2015.tpddns.cn/svn/qtx" />
+        <option value="svn://www.harme.cn" />
+      </list>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis 2" SelectedBinding="XmlBeans" PathToAxis2="/opt/axis2-1.7.7">
+    <StubPackage>com.cdiscount.marketplace.api</StubPackage>
+    <StubPackage>com.cdiscount.wsvc.marketplace.api</StubPackage>
+    <StubPackage>com.github.cnlinjie.cdiscount</StubPackage>
+    <StubUrl>https://wsvc.cdiscount.com/MarketplaceAPIService.svc?wsdl</StubUrl>
+  </component>
+</application>
