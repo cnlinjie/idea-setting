@@ -4,12 +4,13 @@
     <extensionMap>
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" type="HTML" />
-      <mapping pattern="回复CD-curl" type="PLAIN_TEXT" />
-      <mapping pattern="utf8mb4" type="PLAIN_TEXT" />
       <mapping pattern="222" type="PLAIN_TEXT" />
-      <mapping pattern=".ba" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="heheh" type="PLAIN_TEXT" />
+      <mapping pattern="回复CD-curl" type="PLAIN_TEXT" />
       <mapping pattern="email-registerhtml" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".ba" type="PLAIN_TEXT" />
+      <mapping pattern="utf8mb4" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
