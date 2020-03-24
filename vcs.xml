@@ -90,6 +90,10 @@
           <option name="url" value="http://git.emallos.com" />
           <option name="userName" value="cnlinjie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://vcs.emallos.com" />
+          <option name="userName" value="cnlinjie" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WorkSpaces/IdeaProjects" />
