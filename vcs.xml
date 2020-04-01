@@ -94,6 +94,18 @@
           <option name="url" value="http://vcs.emallos.com" />
           <option name="userName" value="cnlinjie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.fs.zonelo.tech:28122/cw/seckill-shop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.fs.zonelo.tech/cw/seckill-shop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.fs.zonelo.tech" />
+          <option name="userName" value="cnlinjie" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WorkSpaces/IdeaProjects" />
