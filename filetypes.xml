@@ -2,30 +2,28 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="html" type="FTL" />
-      <removed_mapping ext="html" type="HTML" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="回复CD-curl" type="PLAIN_TEXT" />
-      <mapping pattern="email-registerhtml" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="222" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
-      <mapping pattern="utf8mb4" type="PLAIN_TEXT" />
       <mapping pattern="备份专用服务器" type="PLAIN_TEXT" />
-      <mapping pattern=".ba" type="PLAIN_TEXT" />
+      <mapping pattern="回复CD-curl" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="utf8mb4" type="PLAIN_TEXT" />
+      <mapping pattern="222" type="PLAIN_TEXT" />
       <mapping pattern="heheh" type="PLAIN_TEXT" />
+      <mapping pattern=".ba" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="email-registerhtml" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="3284590846" type="PLAIN_TEXT" />
       <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
-      <mapping ext="3284590846" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="txtx" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="Umeditor" type="Vue.js" />
     </extensionMap>

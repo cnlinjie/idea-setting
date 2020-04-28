@@ -2,6 +2,9 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
