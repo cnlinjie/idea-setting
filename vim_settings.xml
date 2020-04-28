@@ -1,6 +1,45 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>QR_VERSION</entry>
+      </history-search>
+      <history-cmd>
+        <entry>176</entry>
+        <entry>wq</entry>
+        <entry>member_order</entry>
+        <entry>L/QR_VERSION</entry>
+        <entry>/QR_VERSION</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/bin/example.sql" timestamp="1535280358241">
@@ -15,68 +54,17 @@
         <mark key="^" line="113" column="35" />
         <mark key="." line="113" column="35" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/shuadan/src/main/webapp/web/res/data/users-b.json" timestamp="1484681277689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/qili-web/src/main/java/cc/iqr/qili/web/interceptor/MWeixinOAuth2Interceptor.java" timestamp="1484661488495">
-        <mark key="[" line="175" column="58" />
-        <mark key="]" line="175" column="79" />
-        <mark key="^" line="175" column="79" />
-        <mark key="." line="175" column="79" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/model/MemberBargain.java" timestamp="1535192711942">
-        <mark key="[" line="390" column="18" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="70" column="22" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/dto/res/TagUserInfoHeadRes_3_100.java" timestamp="1484664761259">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/entity/Users.java" timestamp="1484657302180">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/dto/ModifyOrderPriceDto.java" timestamp="1535279794830">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484663480191">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/src/main/java/com/github/cnlinjie/reptile/retailers/crawler/fnac_ean/FnacGetEanCrawler.java" timestamp="1535700821466">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/qili-web/src/main/java/cc/iqr/qili/web/controller/weixin/web/UserController.java" timestamp="1484661870760">
-        <mark key="[" line="304" column="53" />
-        <mark key="]" line="304" column="89" />
-        <mark key="^" line="304" column="89" />
-        <mark key="." line="304" column="89" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/controller/company/MemberBargainController.java" timestamp="1535274615146">
-        <mark key="[" line="49" column="61" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="27" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/Clienter.java" timestamp="1484667970945">
-        <mark key="[" line="98" column="66" />
-        <mark key="]" line="98" column="70" />
-        <mark key="^" line="98" column="70" />
-        <mark key="." line="98" column="70" />
       </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/src/main/java/com/github/cnlinjie/reptile/retailers/crawler/fnac_ean/FnacGetEanPage.java" timestamp="1535701067181">
         <mark key="'" line="90" column="5" />
@@ -85,38 +73,8 @@
         <mark key="^" line="53" column="68" />
         <mark key="." line="53" column="72" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/service/UsersService.java" timestamp="1484668103175">
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/src/main/java/com/github/cnlinjie/reptile/retailers/util/GenJava.java" timestamp="1535699785689">
         <mark key="[" line="35" column="49" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/dto/res/JoinPrivateRes_10_405.java" timestamp="1484664395012">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/CppPacketTest2.java" timestamp="1484668504868">
-        <mark key="[" line="17" column="57" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="62" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/model/GameRoom.java" timestamp="1484666505118">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/model/event/ModifyOrderPriceEvent.java" timestamp="1535276117549">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="56" />
-        <mark key="^" line="17" column="56" />
-        <mark key="." line="17" column="56" />
       </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/pl-iqr-cc/src/main/java/cc/iqr/pl/utils/BuildClient.java" timestamp="1535704568229">
         <mark key="'" line="38" column="18" />
@@ -145,19 +103,6 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/model/UserSessions.java" timestamp="1484666005596">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="15" />
-        <mark key="^" line="37" column="15" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/service/GameService.java" timestamp="1484669818419">
-        <mark key="'" line="78" column="7" />
-        <mark key="[" line="83" column="92" />
-        <mark key="]" line="83" column="114" />
-        <mark key="." line="83" column="114" />
-        <mark key="^" line="83" column="114" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/pl-iqr-cc/src/main/java/cc/iqr/pl/utils/BuildQRCode.java" timestamp="1535732768791">
         <mark key="[" line="38" column="90" />
         <mark key="]" line="37" column="12" />
@@ -171,59 +116,17 @@
         <mark key="^" line="145" column="28" />
         <mark key="." line="145" column="28" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/dto/req/JoinPrivateReq.java" timestamp="1484664008790">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/model/UserStatus.java" timestamp="1484663870160">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/src/main/java/com/github/cnlinjie/reptile/retailers/crawler/newegg/NewEggPage.java" timestamp="1536031540683">
         <mark key="[" line="42" column="36" />
         <mark key="]" line="41" column="12" />
         <mark key="." line="41" column="12" />
         <mark key="^" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/qili-web/src/main/java/cc/iqr/qili/web/api/pcserver/UserApi.java" timestamp="1484661233576">
-        <mark key="[" line="41" column="74" />
-        <mark key="]" line="41" column="74" />
-        <mark key="." line="41" column="74" />
-        <mark key="^" line="41" column="73" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/service/MemberBargainService.java" timestamp="1535272250465">
-        <mark key="[" line="130" column="2" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/dto/res/TagGameServerRes_2_104.java" timestamp="1484668638553">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/resources/config.properties" timestamp="1484668678268">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/bin/example.sql" timestamp="1535699693394">
         <mark key="[" line="563" column="71" />
         <mark key="]" line="563" column="73" />
         <mark key="^" line="563" column="73" />
         <mark key="." line="563" column="73" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/qili-web/src/main/java/cc/iqr/qili/web/service/UserApiService.java" timestamp="1484661305722">
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="33" />
-        <mark key="^" line="37" column="74" />
-        <mark key="." line="35" column="33" />
       </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/rentalcars/src/main/java/com/github/cnlinjie/rentalcars/service/MemberRentOrdersChangeLogService.java" timestamp="1535279824255">
         <mark key="[" line="87" column="36" />
@@ -243,38 +146,14 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/qili-web/src/main/java/cc/iqr/qili/web/controller/TestController.java" timestamp="1484661559038">
-        <mark key="[" line="67" column="69" />
-        <mark key="]" line="67" column="71" />
-        <mark key="^" line="67" column="71" />
-        <mark key="." line="67" column="71" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/netty/NettyServerHandler.java" timestamp="1484666023984">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="27" />
-        <mark key="^" line="58" column="27" />
-      </file>
       <file name="$USER_HOME$/WorkSpaces/IdeaProjects/retailers/src/main/java/com/github/cnlinjie/reptile/retailers/crawler/newegg_shop_excel/NewEggShopExcelPage.java" timestamp="1542610857181">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="36" column="26" />
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/model/UserManager.java" timestamp="1484641231300">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
       <file name="/fragment.java" timestamp="1535278479719">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkSpaces/IdeaProjects/majiang-server/src/main/java/cn/harme/majiang/server/dto/req/LogonUserIDReq.java" timestamp="1484641195642">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -292,6 +171,8 @@
       <jump line="38" column="18" filename="$USER_HOME$/WorkSpaces/IdeaProjects/pl-iqr-cc/src/main/java/cc/iqr/pl/utils/BuildClient.java" />
       <jump line="510" column="17" filename="$USER_HOME$/WorkSpaces/IdeaProjects/pl-iqr-cc/src/main/java/cc/iqr/pl/utils/BusinessLicenseImageBuildUtils.java" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
         <text>2</text>
@@ -336,6 +217,8 @@
         <text>wq</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>QR_VERSION</last-search>
       <last-offset />
@@ -343,39 +226,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>QR_VERSION</entry>
-      </history-search>
-      <history-cmd>
-        <entry>176</entry>
-        <entry>wq</entry>
-        <entry>member_order</entry>
-        <entry>L/QR_VERSION</entry>
-        <entry>/QR_VERSION</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
