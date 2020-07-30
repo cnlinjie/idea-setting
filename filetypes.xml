@@ -23,6 +23,7 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="txtx" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
