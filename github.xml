@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="evoldevel" id="792b9353-3d2b-4b8b-bd2f-d7b1486905e4">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+  </component>
+</application>

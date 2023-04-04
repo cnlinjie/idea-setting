@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.beans.factory.BeanFactory.getBean(name)" />
+        <added pattern="java.io.File.File(pathname)" />
+        <added pattern="java.lang.String.split(regex)" />
+        <added pattern="us.codecraft.webmagic.selector.HtmlNode.$(selector,attrName)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
